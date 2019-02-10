@@ -1,4 +1,4 @@
-# DS1011-Final-Project
+# Neural Machine Translation DS1011-Final-Project
 
 This is a repo for DS1011 NLP final project - Neural Machine Translation System
 
